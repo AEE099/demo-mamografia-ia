@@ -1,0 +1,14 @@
+{
+  "descripcion": "Juego de señalar en VinDr-Mammo (grupo de prueba): ¿el punto más caliente del Grad-CAM cae dentro del recuadro del radiólogo? Tolerancia 15 px en lienzo de 1024×448. Solo resultados agregados: las imágenes de VinDr no se redistribuyen.",
+  "grupos": [
+    {"grupo": "Todas", "n": 158, "acierto": 60.1, "ic_inf": 52, "ic_sup": 67, "azar": 9.7},
+    {"grupo": "Calcificaciones", "n": 66, "acierto": 66.7, "ic_inf": 55, "ic_sup": 77, "azar": 13.0},
+    {"grupo": "Masas", "n": 92, "acierto": 55.4, "ic_inf": 45, "ic_sup": 65, "azar": 7.4},
+    {"grupo": "BI-RADS 4", "n": 122, "acierto": 50.0, "ic_inf": 41, "ic_sup": 59, "azar": 6.8},
+    {"grupo": "BI-RADS 5", "n": 36, "acierto": 94.4, "ic_inf": 82, "ic_sup": 98, "azar": 19.5}
+  ],
+  "probabilidad_media_sospechosas": 0.72,
+  "probabilidad_media_normales": 0.57,
+  "auc_sospechosa_vs_normal": 0.706,
+  "energia_en_recuadro": 35.7
+}

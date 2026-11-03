@@ -1,0 +1,20 @@
+{
+  "ganador": "B",
+  "modelos": [
+    "B_1024_s42.pt",
+    "B_1024_s43.pt",
+    "B_1024_s44.pt"
+  ],
+  "resolucion": [
+    1024,
+    448
+  ],
+  "auc_validacion_ensemble": 0.8105,
+  "ic95": [
+    0.7436,
+    0.8735
+  ],
+  "auc_A": 0.7671,
+  "auc_B": 0.803,
+  "auc_edad": 0.6765
+}

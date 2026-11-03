@@ -1,0 +1,164 @@
+PatientID,lado,real,probabilidad,prediccion,resultado,edad,tipo,vista1,vista2
+D1-0002,L,Benigno,0.5758,Maligno,FP,40,calcificación,D1-0002_L_1,D1-0002_L_2
+D1-0005,R,Benigno,0.3172,Maligno,FP,42,calcificación,D1-0005_R_1,D1-0005_R_2
+D1-0009,L,Benigno,0.2077,Benigno,VN,59,calcificación,D1-0009_L_1,D1-0009_L_2
+D1-0033,R,Benigno,0.6231,Maligno,FP,57,calcificación,D1-0033_R_1,D1-0033_R_2
+D1-0059,R,Maligno,0.7109,Maligno,VP,43,calcificación,D1-0059_R_1,D1-0059_R_2
+D1-0064,L,Maligno,0.9458,Maligno,VP,27,calcificación,D1-0064_L_1,D1-0064_L_2
+D1-0084,L,Maligno,0.3111,Maligno,VP,39,calcificación,D1-0084_L_1,D1-0084_L_2
+D1-0127,L,Maligno,0.475,Maligno,VP,62,calcificación,D1-0127_L_1,D1-0127_L_2
+D1-0132,R,Maligno,0.4075,Maligno,VP,40,calcificación,D1-0132_R_1,D1-0132_R_2
+D1-0140,R,Maligno,0.7638,Maligno,VP,39,calcificación,D1-0140_R_1,D1-0140_R_2
+D1-0149,L,Maligno,0.6999,Maligno,VP,46,calcificación,D1-0149_L_1,D1-0149_L_2
+D1-0152,L,Maligno,0.6507,Maligno,VP,50,calcificación,D1-0152_L_1,D1-0152_L_2
+D1-0162,R,Maligno,0.7276,Maligno,VP,33,calcificación,D1-0162_R_1,D1-0162_R_2
+D1-0184,L,Maligno,0.9634,Maligno,VP,32,calcificación,D1-0184_L_1,D1-0184_L_2
+D1-0194,R,Maligno,0.9323,Maligno,VP,51,calcificación,D1-0194_R_1,D1-0194_R_2
+D1-0196,L,Maligno,0.5023,Maligno,VP,44,calcificación,D1-0196_L_1,D1-0196_L_2
+D1-0215,L,Maligno,0.9201,Maligno,VP,53,calcificación,D1-0215_L_1,D1-0215_L_2
+D1-0223,L,Maligno,0.9434,Maligno,VP,46,calcificación,D1-0223_L_1,D1-0223_L_2
+D1-0223,R,Benigno,0.2431,Maligno,FP,46,calcificación,D1-0223_R_1,D1-0223_R_2
+D1-0229,L,Maligno,0.7615,Maligno,VP,50,calcificación,D1-0229_L_1,D1-0229_L_2
+D1-0231,L,Maligno,0.515,Maligno,VP,38,calcificación,D1-0231_L_1,D1-0231_L_2
+D1-0240,L,Maligno,0.3893,Maligno,VP,39,calcificación,D1-0240_L_1,D1-0240_L_2
+D1-0241,L,Maligno,0.6431,Maligno,VP,40,calcificación,D1-0241_L_1,D1-0241_L_2
+D1-0242,R,Benigno,0.317,Maligno,FP,58,masa + calcificación,D1-0242_R_1,D1-0242_R_2
+D1-0246,L,Benigno,0.5339,Maligno,FP,50,masa + calcificación,D1-0246_L_1,D1-0246_L_2
+D1-0246,R,Benigno,0.3332,Maligno,FP,50,masa + calcificación,D1-0246_R_1,D1-0246_R_2
+D1-0247,L,Benigno,0.2666,Maligno,FP,48,masa + calcificación,D1-0247_L_1,D1-0247_L_2
+D1-0249,R,Benigno,0.2284,Benigno,VN,51,masa + calcificación,D1-0249_R_1,D1-0249_R_2
+D1-0252,R,Benigno,0.2132,Benigno,VN,37,masa + calcificación,D1-0252_R_1,D1-0252_R_2
+D1-0253,R,Benigno,0.2244,Benigno,VN,41,masa + calcificación,D1-0253_R_1,D1-0253_R_2
+D1-0261,L,Benigno,0.2916,Maligno,FP,29,masa + calcificación,D1-0261_L_1,D1-0261_L_2
+D1-0279,L,Benigno,0.2751,Maligno,FP,52,masa + calcificación,D1-0279_L_1,D1-0279_L_2
+D1-0279,R,Benigno,0.3301,Maligno,FP,52,masa + calcificación,D1-0279_R_1,D1-0279_R_2
+D1-0287,L,Benigno,0.1615,Benigno,VN,52,masa + calcificación,D1-0287_L_1,D1-0287_L_2
+D1-0297,L,Benigno,0.1459,Benigno,VN,42,masa + calcificación,D1-0297_L_1,D1-0297_L_2
+D1-0299,L,Benigno,0.8,Maligno,FP,46,masa + calcificación,D1-0299_L_1,D1-0299_L_2
+D1-0324,L,Maligno,0.7393,Maligno,VP,58,masa + calcificación,D1-0324_L_1,D1-0324_L_2
+D1-0338,L,Maligno,0.8621,Maligno,VP,48,masa + calcificación,D1-0338_L_1,D1-0338_L_2
+D1-0372,L,Maligno,0.5841,Maligno,VP,31,masa + calcificación,D1-0372_L_1,D1-0372_L_2
+D1-0392,R,Maligno,0.9357,Maligno,VP,45,masa + calcificación,D1-0392_R_1,D1-0392_R_2
+D1-0393,L,Maligno,0.9565,Maligno,VP,60,masa + calcificación,D1-0393_L_1,D1-0393_L_2
+D1-0410,L,Maligno,0.5388,Maligno,VP,43,masa + calcificación,D1-0410_L_1,D1-0410_L_2
+D1-0411,L,Maligno,0.8358,Maligno,VP,62,masa + calcificación,D1-0411_L_1,D1-0411_L_2
+D1-0436,L,Maligno,0.4253,Maligno,VP,48,masa + calcificación,D1-0436_L_1,D1-0436_L_2
+D1-0439,R,Maligno,0.9692,Maligno,VP,54,masa + calcificación,D1-0439_R_1,D1-0439_R_2
+D1-0449,R,Maligno,0.9245,Maligno,VP,45,masa + calcificación,D1-0449_R_1,D1-0449_R_2
+D1-0455,L,Maligno,0.8266,Maligno,VP,58,masa + calcificación,D1-0455_L_1,D1-0455_L_2
+D1-0472,L,Maligno,0.7725,Maligno,VP,52,masa + calcificación,D1-0472_L_1,D1-0472_L_2
+D1-0511,R,Maligno,0.5849,Maligno,VP,56,masa + calcificación,D1-0511_R_1,D1-0511_R_2
+D1-0515,L,Maligno,0.9668,Maligno,VP,53,masa + calcificación,D1-0515_L_1,D1-0515_L_2
+D1-0522,R,Maligno,0.9065,Maligno,VP,50,masa + calcificación,D1-0522_R_1,D1-0522_R_2
+D1-0530,L,Maligno,0.2506,Maligno,VP,31,masa + calcificación,D1-0530_L_1,D1-0530_L_2
+D1-0540,R,Maligno,0.9609,Maligno,VP,65,masa + calcificación,D1-0540_R_1,D1-0540_R_2
+D1-0577,R,Maligno,0.9342,Maligno,VP,64,masa + calcificación,D1-0577_R_1,D1-0577_R_2
+D1-0599,L,Maligno,0.9737,Maligno,VP,78,masa + calcificación,D1-0599_L_1,D1-0599_L_2
+D1-0606,R,Maligno,0.943,Maligno,VP,39,masa + calcificación,D1-0606_R_1,D1-0606_R_2
+D1-0609,L,Maligno,0.1466,Benigno,FN,45,masa + calcificación,D1-0609_L_1,D1-0609_L_2
+D1-0609,R,Benigno,0.4632,Maligno,FP,45,masa + calcificación,D1-0609_R_1,D1-0609_R_2
+D1-0684,R,Benigno,0.4229,Maligno,FP,44,masa,D1-0684_R_1,D1-0684_R_2
+D1-0699,R,Benigno,0.5374,Maligno,FP,48,masa,D1-0699_R_1,D1-0699_R_2
+D1-0712,R,Benigno,0.3606,Maligno,FP,18,masa,D1-0712_R_1,D1-0712_R_2
+D1-0716,R,Benigno,0.6912,Maligno,FP,32,masa,D1-0716_R_1,D1-0716_R_2
+D1-0727,L,Benigno,0.4686,Maligno,FP,35,masa,D1-0727_L_1,D1-0727_L_2
+D1-0734,R,Benigno,0.3613,Maligno,FP,45,masa,D1-0734_R_1,D1-0734_R_2
+D1-0738,R,Benigno,0.4541,Maligno,FP,36,masa,D1-0738_R_1,D1-0738_R_2
+D1-0739,R,Benigno,0.6162,Maligno,FP,27,masa,D1-0739_R_1,D1-0739_R_2
+D1-0740,L,Benigno,0.419,Maligno,FP,44,masa,D1-0740_L_1,D1-0740_L_2
+D1-0744,R,Benigno,0.5972,Maligno,FP,43,masa,D1-0744_R_1,D1-0744_R_2
+D1-0749,R,Benigno,0.1681,Benigno,VN,47,masa,D1-0749_R_1,D1-0749_R_2
+D1-0767,L,Benigno,0.4377,Maligno,FP,46,masa,D1-0767_L_1,D1-0767_L_2
+D1-0767,R,Benigno,0.4869,Maligno,FP,46,masa,D1-0767_R_1,D1-0767_R_2
+D1-0768,R,Benigno,0.2516,Maligno,FP,48,masa,D1-0768_R_1,D1-0768_R_2
+D1-0778,R,Benigno,0.8627,Maligno,FP,38,masa,D1-0778_R_1,D1-0778_R_2
+D1-0779,L,Benigno,0.2761,Maligno,FP,43,masa,D1-0779_L_1,D1-0779_L_2
+D1-0783,L,Benigno,0.2445,Maligno,FP,39,masa,D1-0783_L_1,D1-0783_L_2
+D1-0790,L,Benigno,0.6136,Maligno,FP,34,masa,D1-0790_L_1,D1-0790_L_2
+D1-0791,R,Benigno,0.3317,Maligno,FP,37,masa,D1-0791_R_1,D1-0791_R_2
+D1-0792,R,Benigno,0.3039,Maligno,FP,39,masa,D1-0792_R_1,D1-0792_R_2
+D1-0793,L,Benigno,0.5432,Maligno,FP,55,masa,D1-0793_L_1,D1-0793_L_2
+D1-0795,R,Benigno,0.1973,Benigno,VN,47,masa,D1-0795_R_1,D1-0795_R_2
+D1-0813,L,Benigno,0.7954,Maligno,FP,33,masa,D1-0813_L_1,D1-0813_L_2
+D1-0819,R,Benigno,0.2961,Maligno,FP,48,masa,D1-0819_R_1,D1-0819_R_2
+D1-0821,R,Benigno,0.1807,Benigno,VN,42,masa,D1-0821_R_1,D1-0821_R_2
+D1-0832,R,Benigno,0.2822,Maligno,FP,46,masa,D1-0832_R_1,D1-0832_R_2
+D1-0834,R,Benigno,0.2028,Benigno,VN,25,masa,D1-0834_R_1,D1-0834_R_2
+D1-0835,L,Benigno,0.4694,Maligno,FP,46,masa,D1-0835_L_1,D1-0835_L_2
+D1-0838,R,Benigno,0.4202,Maligno,FP,53,masa,D1-0838_R_1,D1-0838_R_2
+D1-0841,L,Benigno,0.2405,Maligno,FP,34,masa,D1-0841_L_1,D1-0841_L_2
+D1-0842,L,Benigno,0.127,Benigno,VN,38,masa,D1-0842_L_1,D1-0842_L_2
+D1-0845,L,Benigno,0.3747,Maligno,FP,42,masa,D1-0845_L_1,D1-0845_L_2
+D1-0845,R,Benigno,0.7992,Maligno,FP,42,masa,D1-0845_R_1,D1-0845_R_2
+D1-0854,R,Benigno,0.2021,Benigno,VN,41,masa,D1-0854_R_1,D1-0854_R_2
+D1-0866,L,Benigno,0.0905,Benigno,VN,41,masa,D1-0866_L_1,D1-0866_L_2
+D1-0871,L,Benigno,0.2793,Maligno,FP,43,masa,D1-0871_L_1,D1-0871_L_2
+D1-0873,L,Benigno,0.2077,Benigno,VN,42,masa,D1-0873_L_1,D1-0873_L_2
+D1-0878,R,Benigno,0.153,Benigno,VN,43,masa,D1-0878_R_1,D1-0878_R_2
+D1-0881,L,Benigno,0.1142,Benigno,VN,32,masa,D1-0881_L_1,D1-0881_L_2
+D1-0887,L,Benigno,0.2325,Maligno,FP,53,masa,D1-0887_L_1,D1-0887_L_2
+D1-0891,R,Benigno,0.618,Maligno,FP,49,masa,D1-0891_R_1,D1-0891_R_2
+D1-0897,L,Benigno,0.6466,Maligno,FP,38,masa,D1-0897_L_1,D1-0897_L_2
+D1-0908,L,Benigno,0.1604,Benigno,VN,45,masa,D1-0908_L_1,D1-0908_L_2
+D1-0908,R,Benigno,0.1557,Benigno,VN,45,masa,D1-0908_R_1,D1-0908_R_2
+D1-0915,L,Benigno,0.3628,Maligno,FP,50,masa,D1-0915_L_1,D1-0915_L_2
+D1-0917,R,Benigno,0.4441,Maligno,FP,49,masa,D1-0917_R_1,D1-0917_R_2
+D1-0921,R,Benigno,0.1454,Benigno,VN,32,masa,D1-0921_R_1,D1-0921_R_2
+D1-0942,R,Benigno,0.1627,Benigno,VN,37,masa,D1-0942_R_1,D1-0942_R_2
+D1-0944,L,Benigno,0.4411,Maligno,FP,39,masa,D1-0944_L_1,D1-0944_L_2
+D1-0955,L,Benigno,0.1518,Benigno,VN,43,masa,D1-0955_L_1,D1-0955_L_2
+D1-0955,R,Benigno,0.3928,Maligno,FP,43,masa,D1-0955_R_1,D1-0955_R_2
+D1-0963,L,Benigno,0.5457,Maligno,FP,37,masa,D1-0963_L_1,D1-0963_L_2
+D1-0964,R,Benigno,0.9041,Maligno,FP,64,masa,D1-0964_R_1,D1-0964_R_2
+D1-0967,L,Benigno,0.1631,Benigno,VN,35,masa,D1-0967_L_1,D1-0967_L_2
+D1-0979,R,Benigno,0.3394,Maligno,FP,39,masa,D1-0979_R_1,D1-0979_R_2
+D1-0991,L,Benigno,0.11,Benigno,VN,28,masa,D1-0991_L_1,D1-0991_L_2
+D1-0991,R,Benigno,0.0809,Benigno,VN,28,masa,D1-0991_R_1,D1-0991_R_2
+D1-1018,L,Benigno,0.3818,Maligno,FP,58,masa,D1-1018_L_1,D1-1018_L_2
+D1-1027,R,Benigno,0.1716,Benigno,VN,40,masa,D1-1027_R_1,D1-1027_R_2
+D1-1039,L,Benigno,0.6306,Maligno,FP,43,masa,D1-1039_L_1,D1-1039_L_2
+D1-1056,L,Maligno,0.8405,Maligno,VP,47,masa,D1-1056_L_1,D1-1056_L_2
+D1-1068,L,Maligno,0.6487,Maligno,VP,43,masa,D1-1068_L_1,D1-1068_L_2
+D1-1082,L,Maligno,0.505,Maligno,VP,27,masa,D1-1082_L_1,D1-1082_L_2
+D1-1100,L,Maligno,0.8533,Maligno,VP,39,masa,D1-1100_L_1,D1-1100_L_2
+D1-1118,L,Maligno,0.8612,Maligno,VP,66,masa,D1-1118_L_1,D1-1118_L_2
+D1-1126,R,Maligno,0.6093,Maligno,VP,49,masa,D1-1126_R_1,D1-1126_R_2
+D1-1151,L,Maligno,0.9607,Maligno,VP,74,masa,D1-1151_L_1,D1-1151_L_2
+D1-1170,R,Maligno,0.3043,Maligno,VP,35,masa,D1-1170_R_1,D1-1170_R_2
+D1-1260,R,Maligno,0.9103,Maligno,VP,43,masa,D1-1260_R_1,D1-1260_R_2
+D1-1271,R,Maligno,0.264,Maligno,VP,38,masa,D1-1271_R_1,D1-1271_R_2
+D1-1306,L,Maligno,0.9469,Maligno,VP,50,masa,D1-1306_L_1,D1-1306_L_2
+D1-1319,L,Maligno,0.6065,Maligno,VP,48,masa,D1-1319_L_1,D1-1319_L_2
+D1-1328,R,Maligno,0.7171,Maligno,VP,39,masa,D1-1328_R_1,D1-1328_R_2
+D1-1329,L,Maligno,0.2607,Maligno,VP,38,masa,D1-1329_L_1,D1-1329_L_2
+D1-1344,R,Maligno,0.9611,Maligno,VP,50,masa,D1-1344_R_1,D1-1344_R_2
+D1-1347,L,Maligno,0.8871,Maligno,VP,80,masa,D1-1347_L_1,D1-1347_L_2
+D1-1359,R,Maligno,0.5916,Maligno,VP,44,masa,D1-1359_R_1,D1-1359_R_2
+D1-1384,R,Maligno,0.6558,Maligno,VP,50,masa,D1-1384_R_1,D1-1384_R_2
+D1-1392,R,Maligno,0.4006,Maligno,VP,52,masa,D1-1392_R_1,D1-1392_R_2
+D1-1393,L,Maligno,0.1949,Benigno,FN,57,masa,D1-1393_L_1,D1-1393_L_2
+D1-1431,L,Maligno,0.8561,Maligno,VP,46,masa,D1-1431_L_1,D1-1431_L_2
+D1-1435,R,Maligno,0.3853,Maligno,VP,51,masa,D1-1435_R_1,D1-1435_R_2
+D1-1478,L,Maligno,0.5213,Maligno,VP,63,masa,D1-1478_L_1,D1-1478_L_2
+D1-1494,L,Maligno,0.3319,Maligno,VP,48,masa,D1-1494_L_1,D1-1494_L_2
+D1-1518,R,Maligno,0.3815,Maligno,VP,52,masa,D1-1518_R_1,D1-1518_R_2
+D1-1525,R,Maligno,0.6707,Maligno,VP,56,masa,D1-1525_R_1,D1-1525_R_2
+D1-1534,R,Maligno,0.3759,Maligno,VP,50,masa,D1-1534_R_1,D1-1534_R_2
+D1-1536,L,Maligno,0.7783,Maligno,VP,37,masa,D1-1536_L_1,D1-1536_L_2
+D1-1545,L,Maligno,0.4677,Maligno,VP,41,masa,D1-1545_L_1,D1-1545_L_2
+D1-1575,R,Maligno,0.9303,Maligno,VP,51,masa,D1-1575_R_1,D1-1575_R_2
+D1-1576,R,Maligno,0.9314,Maligno,VP,44,masa,D1-1576_R_1,D1-1576_R_2
+D1-1627,L,Maligno,0.2865,Maligno,VP,50,masa,D1-1627_L_1,D1-1627_L_2
+D1-1636,R,Maligno,0.2187,Benigno,FN,50,masa,D1-1636_R_1,D1-1636_R_2
+D1-1637,R,Maligno,0.916,Maligno,VP,58,masa,D1-1637_R_1,D1-1637_R_2
+D1-1644,L,Maligno,0.124,Benigno,FN,33,masa,D1-1644_L_1,D1-1644_L_2
+D1-1660,L,Maligno,0.2265,Benigno,FN,46,masa,D1-1660_L_1,D1-1660_L_2
+D1-1685,R,Maligno,0.1467,Benigno,FN,50,masa,D1-1685_R_1,D1-1685_R_2
+D1-1694,L,Maligno,0.8789,Maligno,VP,53,masa,D1-1694_L_1,D1-1694_L_2
+D1-1713,L,Maligno,0.4295,Maligno,VP,42,masa,D1-1713_L_1,D1-1713_L_2
+D1-1715,L,Maligno,0.3787,Maligno,VP,51,masa,D1-1715_L_1,D1-1715_L_2
+D1-1734,L,Maligno,0.6327,Maligno,VP,53,masa,D1-1734_L_1,D1-1734_L_2
+D1-1740,L,Maligno,0.9445,Maligno,VP,49,masa,D1-1740_L_1,D1-1740_L_2
+D1-1743,R,Maligno,0.5182,Maligno,VP,51,masa,D1-1743_R_1,D1-1743_R_2
+D1-1753,L,Maligno,0.5302,Maligno,VP,37,masa,D1-1753_L_1,D1-1753_L_2
+D1-1768,R,Maligno,0.3082,Maligno,VP,44,masa,D1-1768_R_1,D1-1768_R_2
